@@ -1,0 +1,17 @@
+#Tue Mar 16 15:06:38 EDT 2021
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Kirsten Fournier
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=kfournier@hopkintonk12.ma.us
+bluej.teamsettings.git.repositoryPrefix=/kefournier/KivaComputingStatistics
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=kefournier
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store
